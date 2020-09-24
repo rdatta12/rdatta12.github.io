@@ -1,6 +1,7 @@
 body{
     margin: 0
     padding: 0;
-    background: url("_ASK0861_DayBeforeGuide.jpg");
+    background: url("background.jpg");
     background-size: cover;
+    }
 }
