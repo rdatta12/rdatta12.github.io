@@ -1,5 +1,5 @@
 body{
-    margin: 0
+    margin: 0;
     padding: 0;
     background: url("background.jpg");
     background-size: cover;
@@ -31,20 +31,29 @@ body{
 }
 .box p{
     
-    text-align: : center;
+    text-align: center;
+    font-weight: 300;
+    margin: 0%;
+}
+
+.box p2{
+    text-align: center;
+    margin-top: 0%;
 }
 ul{
-    margin: 0;
-    padding: 0;
+    margin-left: 20px;
+    padding: 0px;
+}
 }
 .box li{
-    display: inline-block;
-    margin 6px;
-    list-style: lower-roman;
     
+    display: inline-block;
+    margin: 6px;
+    list-style: none;   
 }
 .box li a{
     color: white;
+    margin: 40px;
     text-decoration: none;
     font-size: 60px;
     transition: all ease-in-out 250ms;
